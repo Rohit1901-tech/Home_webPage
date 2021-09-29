@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./CSS/Raw_Layout.css">
+    <script src="https://kit.fontawesome.com/17e23ad825.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cuprum:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <!-- Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit dolorem obcaecati, consequatur sunt dolore sapiente? Unde pariatur sequi dolor alias. -->
+            <section class="container_navbar">
+                <!-- Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit dolorem obcaecati, consequatur sunt dolore sapiente? Unde pariatur sequi dolor alias. -->
+                <!-- <logo class="logo lg-heading">WP</logo> -->
+                <logo class="logo-header lg-heading">XCLUWAY</logo>
+                <!-- <caption>container-logo</caption> -->
+                <ul class="nav-items container-menu">
+                    <li class="menu-nav-items"><a href="./home.html"    target="_blank">Home</a></li>
+                    <li class="menu-nav-items"><a href="./about.html"   target="_blank">About</a></li>
+                    <li class="menu-nav-items"><a href="./contact.html" target="_blank">Contact</a></li>
+                </ul>
+            </section>
+        </nav>
+        <!-- <aside class="revulsion">
+            <img class="img-revulsion" src="./Images/topaste4 (2).jpg" alt="">
+        </aside> -->
+        <main class="main">
+            <section class="container_header flex-container">
+                <h1 class="heading lg-heading font-wt-heading">Web Products</h1>
+                <p class="para font-wt-p font-para">Generically, this is an initiative of initialization to bring out a toolkit which is basically about all of the necessory products that has been required to design and develop a complete professional and business purposed e-commercial website.</p>
+                <a class="btn btn-primary font-wt-p" href="about.html">Explore more about it</a>
+            </section>
+        </main>
+    </header>
+    <article class="section">
+    <!-- <h1 class="heading lg-heading text-dark font-wt-heading text-decoration"> ARTICLES FOR YOU</h1> -->
+      <article class="gap-between-sections">
+        <!-- <section class="container set-container"> -->
+        <section class="container_inner1 set-container">
+            <img class="image-container" src="./Images/13.jpg" alt="Image Loading Error">
+            <p class="para section-para para-bgcolor">
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor rerum molestiae veritatis ipsum iure reiciendis esse dolores hic quis voluptatem corporis minus beatae perferendis consectetur, doloribus deserunt in at unde blanditiis? Voluptatem repellat neque mollitia ratione exercitationem dicta nesciunt et eligendi tenetur delectus libero hic harum rem, magnam similique, eos nostrum impedit. Laborum fugit accusantium ex laboriosam illum a ipsa veniam, impedit deleniti repellat ipsum libero temporibus nostrum labore neque, quo soluta delectus fuga eaque unde explicabo mollitia molestiae cum quia. Voluptatibus, cum, voluptatum eligendi in, veniam ducimus illo iusto hic dolores voluptatem eaque quae officia voluptas doloribus aliquid corporis.
+            </p>
+        </section>
+        <!-- <section class="container set-container"> -->
+        <section class="container_inner1 set-container">
+            <p class="para section-para para-bgcolor">
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor rerum molestiae veritatis ipsum iure reiciendis esse dolores hic quis voluptatem corporis minus beatae perferendis consectetur, doloribus deserunt in at unde blanditiis? Voluptatem repellat neque mollitia ratione exercitationem dicta nesciunt et eligendi tenetur delectus libero hic harum rem, magnam similique, eos nostrum impedit. Laborum fugit accusantium ex laboriosam illum a ipsa veniam, impedit deleniti repellat ipsum libero temporibus nostrum labore neque, quo soluta delectus fuga eaque unde explicabo mollitia molestiae cum quia. Voluptatibus, cum, voluptatum eligendi in, veniam ducimus illo iusto hic dolores voluptatem eaque quae officia voluptas doloribus aliquid corporis.
+            </p>
+            <img class="image-container" src="./Images/topaste10.jpg" alt="Image Loading Error">
+        </section>
+      </article>
+    </article>
+    <article class="section2">
+        <!-- <article class="container tune"> -->
+        <article class="container_inner2">
+            <!-- <article class="tune"> -->
+            <section class="para section-para2 sec1">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, alias distinctio. Mollitia expedita sit dolorum itaque recusandae quas quo totam vero inventore modi maiores blanditiis nemo facere non voluptatibus illo pariatur architecto accusamus fuga culpa, soluta minima praesentium ea. Quos id a eaque, delectus neque quo totam. Eaque, delectus voluptates!
+            </section>
+            <section class="para section-para2 sec2">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, alias distinctio. Mollitia expedita sit dolorum itaque recusandae quas quo totam vero inventore modi maiores blanditiis nemo facere non voluptatibus illo pariatur architecto accusamus fuga culpa, soluta minima praesentium ea. Quos id a eaque, delectus neque quo totam. Eaque, delectus voluptates!
+            </section>
+            <section class="para section-para2 sec3">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, alias distinctio. Mollitia expedita sit dolorum itaque recusandae quas quo totam vero inventore modi maiores blanditiis nemo facere non voluptatibus illo pariatur architecto accusamus fuga culpa, soluta minima praesentium ea. Quos id a eaque, delectus neque quo totam. Eaque, delectus voluptates!
+            </section>
+            <!-- </article> -->
+        </article>
+    </article>
+    <footer class="footer">
+        <!-- <section class="container color size"> -->
+      <section class="container_footer">
+        <section class="container_footer1">
+            <i class="fab fa-facebook item_style"></i>
+            <i class="fab fa-twitter item_style"></i>
+            <i class="fab fa-instagram item_style"></i>
+            <i class="fas fa-dollar-sign item_style"></i>
+            <i class="fas fa-anchor item_style"></i>
+            <i class="fas fa-users item_style"></i>
+        </section>
+        <section class="container_footer2">
+            <p class="para section-para color-para">
+            This website of 
+            <logo class="logo-footer">XCLUWAY</logo> 
+            <!-- <a class="footer-link" href="home.html">Website Products</a>  -->
+            developed by its Owner.
+            </p>
+            <p class="para section-para color-para">
+            All Copyrights &copy;2021 are reserved.
+            </p>
+        </section>
+    </section>
+    </footer>
+</body>
+</html>
+
+<!-- developed by Propertoir Rohit Agarwal. -->
+<!-- Generically, this is an initiative of initialization to bring out a toolkit which is basically about all of the necessory products of which we have required to design and develop a complete professional and business purposed e-commercial website.This is about a toolkit of all the necessory products which we have required to design and develop a complete professional and business purposed e-commercial website. -->
